@@ -1,1 +1,0 @@
-// placeholder for bibtex_js.js

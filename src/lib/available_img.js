@@ -1,1 +1,0 @@
-// placeholder for available_img.js

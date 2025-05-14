@@ -1,0 +1,1 @@
+// placeholder for entry_layout.js
